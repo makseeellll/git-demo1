@@ -1,0 +1,16 @@
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\bin\Debug\KuRsah.exe.config
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\bin\Debug\KuRsah.exe
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\bin\Debug\KuRsah.pdb
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.Form1.resources
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.Properties.Resources.resources
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.csproj.GenerateResource.cache
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.exe
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.pdb
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.Form2.resources
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.Form3.resources
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.Form4.resources
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.Form5.resources
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.Form6.resources
+C:\Users\Maksim\source\repos\KuRsah\KuRsah\obj\Debug\KuRsah.Form7.resources
